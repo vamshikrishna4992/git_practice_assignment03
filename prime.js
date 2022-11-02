@@ -12,7 +12,7 @@ return false;
 }
 let a = checkPrime(13);
 if(a==true){
-console.log("Prime);
+console.log("Prime");
 }else{
 console.log("Not A Prime");
 }
